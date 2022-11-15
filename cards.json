@@ -9,8 +9,6 @@
                 "attack": "deal 1 damage to each of your opponent's consumers for every Zebra you have in play",
 		"number": 1
 	}
-}
-{
 	"Cow": {
 		"name": "Cow",
                 "energy cost": 5,
@@ -21,7 +19,6 @@
                 "attack": "deal 1 damage to each of your opponent's consumers for every Cow you have in play",
 		"number": 2
 	}
-}
 	"Perereca-verde" {
 		"name": "perereca-verde",
 		"energy cost": 3,
@@ -31,5 +28,4 @@
 		"class": "Amphibia",
 		"attack": "deal 2 of damage"
 	}
-
-
+}
