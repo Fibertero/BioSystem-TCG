@@ -7,7 +7,6 @@
                 "class": "mammalia",
                 "ability": "when this enters play, put a Zebra from your deck into your hand",
                 "attack": "deal 1 damage to each of your opponent's consumers for every Zebra you have in play",
-                "decomposition cost": 4,
 		"number": 1
 	}
 }
@@ -20,17 +19,17 @@
                 "class": "mammalia",
                 "ability": "at the start of your turn heal 1 damage from each of your consumers for every Cow you have in play. you can't use this ability if you have only 1 Cow in play.",
                 "attack": "deal 1 damage to each of your opponent's consumers for every Cow you have in play",
-                "decomposition cost": 3,
 		"number": 2
 	}
 }
 	"Perereca-verde" {
 		"name": "perereca-verde",
-		"energy cost": 5,
+		"energy cost": 3,
 		"HP": 6,
+		"type": "terrestrial",
 		"ability": "If you are in a tree environment, this animal stays with more 3 hp"
 		"class": "Amphibia",
-		attack: deal 2 of damage
+		"attack": "deal 2 of damage"
 	}
 
 
