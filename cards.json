@@ -14,7 +14,7 @@
 	"Cow": {
 		"name": "Cow",
                 "energy cost": 5,
-		"HP": 11,
+		"HP": 10,
                 "type": "terrestrial",
                 "class": "mammalia",
                 "ability": "at the start of your turn heal 1 damage from each of your consumers for every Cow you have in play. you can't use this ability if you have only 1 Cow in play.",
