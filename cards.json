@@ -27,7 +27,7 @@
 		"energy cost": 3,
 		"HP": 6,
 		"type": "terrestrial",
-		"ability": "If you are in a tree environment, this animal stays with more 3 hp"
+		"ability": "If you are in a tree environment, this animal stays with more 3 hp",
 		"class": "Amphibia",
 		"attack": "deal 2 of damage"
 	}
