@@ -1,15 +1,11 @@
 {
 	"Zebra": {
-		"nome": "Zebra",
-                "custo de energia": "5",
-		"HP": "12",
-                "tipo": "terrestre",
-                "classe": "mamífero",
-                "abilidade": "ao entrar em jogo":
-"procure por 1 zebra no seu baralho",
-                "ataque": "causa 1 de dano a todos
-os consumidores do seu oponente",
-		"cod": 1
+		"name": "Zebra",
+                "energy cost": 5,
+		"HP": 12,
+                "type": "terrestre",
+                "class": "mammalia",
+		"number": 1
 	}
 }
 
