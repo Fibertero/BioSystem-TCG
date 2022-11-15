@@ -24,5 +24,13 @@
 		"number": 2
 	}
 }
+	"Perereca-verde" {
+		"name": "perereca-verde",
+		"energy cost": 5,
+		"HP": 6,
+		"ability": "If you are in a tree environment, this animal stays with more 3 hp"
+		"class": "Amphibia",
+		attack: deal 2 of damage
+	}
 
 
