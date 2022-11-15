@@ -1,11 +1,16 @@
 {
 	"Zebra": {
 		"name": "Zebra",
-                "energy cost": 5,
+                "energy cost": 6,
 		"HP": 12,
-                "type": "terrestre",
+                "type": "terrestrial",
                 "class": "mammalia",
+                "ability": "when this enters
+play": put a Zebra from your deck into your hand",
+                "attack": "deal 1 damage to
+each of your opponent's consumers for every
+Zebra you have in play",
+                "decomposition cost": 4,
 		"number": 1
 	}
 }
-
