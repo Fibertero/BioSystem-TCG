@@ -26,6 +26,27 @@
 		"type": "terrestrial",
 		"ability": "If you are in a tree environment, this animal stays with more 3 hp",
 		"class": "Amphibia",
-		"attack": "deal 2 of damage"
+		"attack": "deal 2 of damage",
+		"number": 3
+	}
+	"Jabuti" {
+		"name": "jabuti",
+		"energy cost": 4,
+		"HP": 8,
+		"type": "terrestrial",
+		"class": "reptilia",
+		"ability": "when this animal enters in game, you can attach 2 shields to any of your pokemon",
+		"attack": "deal 2 of damage. (If you kill the opposite animal, jabuti receives 1 shield)",
+		"number":4
+	}
+	"Tucano": {
+		"name": "Tucano",
+		"energy cost": 3,
+		"HP": 6,
+		"type": "terrestrial",
+		"class": "flier",
+		"ability": "None",
+		"attack": "none",
+		"number": 5
 	}
 }
