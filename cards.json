@@ -45,8 +45,8 @@
 		"HP": 6,
 		"type": "terrestrial",
 		"class": "flier",
-		"ability": "None",
-		"attack": "none",
+		"ability": "fruits have double effect on this animal",
+		"attack": "deals 1 of damage. (if you are with more than 4 energies in this round you deal 1 extra damage)",
 		"number": 5
 	}
 }
