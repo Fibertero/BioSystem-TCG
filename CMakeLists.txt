@@ -7,9 +7,23 @@ set(CMAKE_C_STANDARD 11) # Requires C11 standard
 
 add_executable(${PROJECT_NAME} main.cpp)
 
+target_sources(
+  ${PROJECT_NAME}
+  PRIVATE
+
+  src/CardsInterpreter.cpp
+  src/Engine.cpp
+  src/Camera.cpp
+  src/global.cpp
+
+  src/CardsInterpreter.hpp
+  src/Engine.hpp
+  src/Camera.hpp
+  src/global.hpp
+)
+
 target_link_libraries(${PROJECT_NAME} raylib)
 
-# Checks if OSX and links appropriate frameworks (only required on MacOS)
 if (APPLE)
     target_link_libraries(${PROJECT_NAME} "-framework IOKit")
     target_link_libraries(${PROJECT_NAME} "-framework Cocoa")

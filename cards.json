@@ -1,26 +1,31 @@
 {
-	"Zebra": {
+	"Animals":[
+	{
+		"name":"Cards json",
+		"last_updated":"19:30 - 15/11/2022"
+	},
+	{
 		"name": "Zebra",
-                "energy cost": 6,
+        "energy cost": 6,
 		"HP": 12,
-                "type": "terrestrial",
-                "class": "mammalia",
-                "ability": "when this enters play, put a Zebra from your deck into your hand",
-                "attack": "deal 1 damage to each of your opponent's consumers for every Zebra you have in play",
+        "type": "terrestrial",
+        "class": "mammalia",
+        "ability": "when this enters play, put a Zebra from your deck into your hand",
+        "attack": "deal 1 damage to each of your opponent's consumers for every Zebra you have in play",
 		"number": 1
-	}
-	"Cow": {
+	},
+	{
 		"name": "Cow",
-                "energy cost": 5,
+        "energy cost": 5,
 		"HP": 10,
-                "type": "terrestrial",
-                "class": "mammalia",
-                "ability": "at the start of your turn heal 1 damage from each of your consumers for every Cow you have in play. you can't use this ability if you have only 1 Cow in play.",
-                "attack": "deal 1 damage to each of your opponent's consumers for every Cow you have in play",
+        "type": "terrestrial",
+        "class": "mammalia",
+        "ability": "at the start of your turn heal 1 damage from each of your consumers for every Cow you have in play. you can't use this ability if you have only 1 Cow in play.",
+        "attack": "deal 1 damage to each of your opponent's consumers for every Cow you have in play",
 		"number": 2
-	}
-	"Perereca-verde" {
-		"name": "perereca-verde",
+	},
+	{
+		"name": "Perereca-verde",
 		"energy cost": 3,
 		"HP": 6,
 		"type": "terrestrial",
@@ -28,9 +33,9 @@
 		"class": "Amphibia",
 		"attack": "deal 2 of damage",
 		"number": 3
-	}
-	"Jabuti" {
-		"name": "jabuti",
+	},
+	{
+		"name": "Jabuti",
 		"energy cost": 4,
 		"HP": 8,
 		"type": "terrestrial",
@@ -38,8 +43,8 @@
 		"ability": "when this animal enters in game, you can attach 2 shields to any of your pokemon",
 		"attack": "deal 2 of damage. (If you kill the opposite animal, jabuti receives 1 shield)",
 		"number":4
-	}
-	"Tucano": {
+	},
+	{
 		"name": "Tucano",
 		"energy cost": 3,
 		"HP": 6,
@@ -49,4 +54,5 @@
 		"attack": "deals 1 of damage. (if you are with more than 4 energies in this round you deal 1 extra damage)",
 		"number": 5
 	}
+	]
 }
