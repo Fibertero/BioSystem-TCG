@@ -3,9 +3,8 @@
 #include <fstream>
 #include <nlohmann/json.hpp>
 #include"global.hpp"
-#define PATH_TO_CARD "../res/Images/Cards/card.png"
 #include<vector>
-
+#define PATH_TO_CARD "../res/Images/Cards/card.png"
 using Json = nlohmann::json;
 
 /*Animals enum*/
